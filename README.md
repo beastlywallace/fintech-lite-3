@@ -32,3 +32,4 @@ Branches are prperly named and created per feature. So to see the code for a par
 
 ### Feature Requests
 You can suggest a feature by creating an issue and adding the label `request` to it.# fintech-lite-3
+reference: buiding a digital wallet
